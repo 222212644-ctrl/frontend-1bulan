@@ -1,10 +1,10 @@
 <div class="font-posterable container mx-auto px-4 py-8">
     <!-- Title -->
     <h1 class="text-3xl lg:text-6xl text-center text-[#456438] font-bold mb-2">
-        Praktik Kerja Lapangan
+        Daftar Usaha Kota Medan
     </h1>
     <p class="text-lg lg:text-2xl text-center text-green-600 mb-2">
-        Politeknik Statistika STIS T.A 2024/2025
+        BPS Kota Medan
     </p>
     <p class="text-[#F18317] text-lg lg:text-2xl text-center mb-2">
         Klasifikasi Baku Lapangan Usaha Indonesia 2020

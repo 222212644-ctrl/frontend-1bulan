@@ -23,10 +23,10 @@ updateSidebar();">
 
     <!-- Title -->
     <h1 class="text-2xl sm:text-3xl md:text-6xl text-center text-[#456438] font-bold mb-2">
-        Praktik Kerja Lapangan
+        Daftar Usaha Kota Medan
     </h1>
     <p class="mb-2 text-base text-center text-green-600 sm:text-lg md:text-2xl">
-        Politeknik Statistika STIS T.A 2024/2025
+        BPS Kota Medan
     </p>
     <p class="text-[#F18317] text-base sm:text-lg md:text-2xl text-center mb-2">
         Pemetaan Wilayah Usaha

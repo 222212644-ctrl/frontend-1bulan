@@ -39,7 +39,7 @@
     @vite(['resources/css/app.css', 'resources/js/app.js'])
 </head>
 
-<body class="bg-gray-100 bg-cover bg-center min-h-screen overflow-y-auto" style="background-image: url('/img/');">
+<body class="bg-gray-100 bg-cover bg-center min-h-screen overflow-y-auto" style=" background-image:url('/img/bg.png');">
     <livewire:header />
     @if (request()->routeIs('petausaha'))
         <!-- Scripts yang perlu dimuat setelah body -->

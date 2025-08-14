@@ -3,12 +3,12 @@
         <!-- Logo -->
         <div class="flex items-center space-x-4">
             <a href="/">
-                <img src="{{ asset('img/logo.png') }}" alt="Logo" class="h-12 w-auto">
+                <img src="{{ asset('img/logobps2.png') }}" alt="Logo" class="h-12 w-auto">
             </a>
             <a href="/">
                 <div>
-                    <h1 class="text-lg text-green-800 font-semibold">PKL POLSTAT STIS</h1>
-                    <p class="text-sm text-green-600 font-semibold">T.A 2024/2025</p>
+                    <h1 class="text-lg text-green-800 font-semibold">BPS Kota Medan</h1>
+                    <!-- <p class="text-sm text-green-600 font-semibold">T.A 2024/2025</p> -->
                 </div>
             </a>
         </div>

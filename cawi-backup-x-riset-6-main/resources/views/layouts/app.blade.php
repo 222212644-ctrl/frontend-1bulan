@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="csrf-token" content="{{ csrf_token() }}">
-    <link rel="icon" href="/img/icon.png" type="image/png">
+    <link rel="icon" href="/img/logobps2.png" type="image/png">
     <title>{{ $title ?? config('app.name') }}</title>
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
     <style>
@@ -39,7 +39,7 @@
     @vite(['resources/css/app.css', 'resources/js/app.js'])
 </head>
 
-<body class="bg-gray-100 bg-cover bg-center min-h-screen overflow-y-auto" style="background-image: url('/img/bg.png');">
+<body class="bg-gray-100 bg-cover bg-center min-h-screen overflow-y-auto" style="background-image: url('/img/');">
     <livewire:header />
     @if (request()->routeIs('petausaha'))
         <!-- Scripts yang perlu dimuat setelah body -->

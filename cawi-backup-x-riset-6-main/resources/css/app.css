@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@tailwind variants;
+
+@font-face {
+    font-family: "POSTERABLE";
+    src: url("/fonts/POSTERABLE.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}

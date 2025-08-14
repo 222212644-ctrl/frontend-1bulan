@@ -1,0 +1,50 @@
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background: white;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    padding: 5px;
+    border-radius: 5px;
+    width: 150px;
+    z-index: 1000000000;
+}
+
+.checkbox-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* 3 kolom */
+    gap: 5px; /* Jarak antar checkbox */
+    padding: 5px;
+}
+
+
+.checkbox-container label {
+    display: flex;
+    align-items: center;
+    gap: 5px; /* Jarak antara checkbox dan huruf */
+    font-size: 14px; /* Ukuran font agar proporsional */
+    cursor: pointer;
+}
+
+#select-all, #deselect-all {
+    padding: 4px 8px;
+    font-size: 12px;
+    margin-bottom: 8px;
+}
+
+#select-all {
+    background-color: #4CAF50;
+    color: white;
+}
+
+#deselect-all {
+    background-color: #6c757d;
+    color: white;
+}
+
+#select-all:hover {
+    background-color: #3e8e41;
+}
+
+#deselect-all:hover {
+    background-color: #5a6268;
+}
